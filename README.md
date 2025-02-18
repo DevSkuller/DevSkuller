@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🖥️ Owner StreetHosting<br>✈️ Travels in world 133/194<br>💎 Running to change the future</p>
+<p align="left">✈️ Travels in world 133/194<br>💎 Running to change the future</p>
 
 ###
 
