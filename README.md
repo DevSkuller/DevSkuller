@@ -18,11 +18,11 @@
 
 ###
 
-<p align="left">✈️ Travels in world 133/194<br>💎 Running to change the future</p>
+<p align="left">✈️ traveling the world<br>💎 Running to change the future</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I work with</h2>
 
 ###
 
